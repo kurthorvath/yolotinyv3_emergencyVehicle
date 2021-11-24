@@ -1,4 +1,4 @@
 classes = 2
-train = /content/yolotinyv3_emergenyVehicle/train.txt
-names = /content/yolotinyv3_emergenyVehicle/obj.names
+train = /content/yolotinyv3_emergencyVehicle/train.txt
+names = /content/yolotinyv3_emergencyVehicle/obj.names
 backup = backup/
